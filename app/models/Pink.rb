@@ -1,0 +1,2 @@
+class Pink < ApplicationRecord
+end

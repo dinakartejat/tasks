@@ -1,0 +1,2 @@
+class Renamecolumnofchargerwire < ApplicationRecord
+end

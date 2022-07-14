@@ -1,0 +1,2 @@
+class Cuboard < ApplicationRecord
+end

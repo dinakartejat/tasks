@@ -1,0 +1,2 @@
+class Chargerwire < ApplicationRecord
+end

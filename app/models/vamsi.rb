@@ -1,0 +1,2 @@
+class Vamsi < ApplicationRecord
+end

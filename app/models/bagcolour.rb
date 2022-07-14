@@ -1,0 +1,2 @@
+class Bagcolour < ApplicationRecord
+end
